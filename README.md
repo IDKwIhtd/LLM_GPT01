@@ -91,7 +91,9 @@ Self-Attention 메커니즘과 병렬 처리를 통해 기존의 RNN이나 LSTM�
 
 -   인코더-디코더 구조 : 입력 데이터를 벡터로 변환한 후 이를 기반으로 결과를 생성
 -   어텐션 메커니즘 : 데이터 내 중요한 요소에 가중치를 부여하여 관계를 학습
--   포지셔널 인코딩(Positional Encoding) : 순서 정보가 없는 데이터에 순서 정보를 부여
+-   포지셔널 인코딩(Positional Encoding) : 순서 정보가 없는 데이터에 순서 정보를 부여  
+
+<br><br>
 
 2017년 "Attention is All You Need" 논문에서 Transformer 최초 제안
 
