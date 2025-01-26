@@ -95,13 +95,17 @@ Self-Attention 메커니즘과 병렬 처리를 통해 기존의 RNN이나 LSTM�
 
 2017년 "Attention is All You Need" 논문에서 Transformer 최초 제안
 
-파생 모델 : BERT(양방향 언어 이해), GPT(언어 생성), T5(텍스트-텍스트 프레임워크) 등 다양한 모델로 확장
+파생 모델 : BERT(양방향 언어 이해), GPT(언어 생성), T5(텍스트-텍스트 프레임워크) 등 다양한 모델로 확장  
+
+
 
 LLM과 Transformer : LLM은 Transformer 구조를 기반으로 대규모 데이터를 학습하며, 언어 처리 성능을 극대화
 
 생성형 AI와 LLM : 생성형 AI는 LLM의 언어 생성 능력을 활용하여 텍스트 기반의 창의적 작업을 수행
 
-Transformer와 생성형 AI : Transformer는 생성형 AI의 핵심 기술로, 다중 모달 데이터를 처리하고 생성할 수 있는 기반 제공
+Transformer와 생성형 AI : Transformer는 생성형 AI의 핵심 기술로, 다중 모달 데이터를 처리하고 생성할 수 있는 기반 제공  
+
+
 
 GPT 계열 모델 : Transformer 기반 LLM으로 생성형 AI의 대표 주자
 
