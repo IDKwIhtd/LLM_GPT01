@@ -1,0 +1,13 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
+#.gitignore파일은 예외
+!.gitignore
+# 가상환경 폴더
+gpt_env/
+
+# Python 컴파일 파일 및 캐시 폴더
+*.pyc
+__pycache__/
+
+#macOS 시스템 파일
+.DS_Store
