@@ -120,4 +120,18 @@ GPT 계열 모델 : Transformer 기반 LLM으로 생성형 AI의 대표 주자
 
 
 
-<br>
+<br>  
+--- 
+
+## 프로젝트 구조  
+```
+LLM_GPT_01
+├── gpt_env                  # 가상환경
+├── main/                    # 프로젝트 메인 디렉토리
+│   ├── main.py              # 주요 코드
+│   ├── simpletest.py        # 간단한 테스트 코드
+│   ├── conversation_log.txt # 대화 저장 파일
+├── .gitignore          # Git에 제외할 파일
+├── readme.txt          # 프로젝트 설명 파일
+├── requirements.txt    # 필요한 라이브러리 목록  
+```
