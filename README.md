@@ -121,7 +121,8 @@ GPT 계열 모델 : Transformer 기반 LLM으로 생성형 AI의 대표 주자
 
 
 <br>  
---- 
+---  
+  
 ```  
 LLM_GPT_01  
 ├── gpt_env                  # 가상환경  
